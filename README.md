@@ -1,16 +1,16 @@
-## Hi there 👋
+# Chandra M
 
-<!--
-**ChandraM-code/ChandraM-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring AI and machine learning at the intersection of computation, engineering, and science.
 
-Here are some ideas to get you started:
+My recent work has spanned:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI for disease prediction and progression modeling
+- Genomics and computational health
+- AI for Electronic Design Automation (EDA)
+- Analog Design Intelligence
+
+With a background in EDA and computational software, I'm particularly interested in how AI can augment human reasoning, decision-making, and problem solving in complex technical domains.
+
+### Areas of interest
+
+`AI/ML` · `Agentic AI` · `EDA` · `Computer Vision` · `Generative AI` · `Optimization` · `Scientific Computing`
